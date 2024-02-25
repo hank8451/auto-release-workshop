@@ -1,6 +1,6 @@
 {
   "name": "auto-release-workshop",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "demo",
   "main": "index.js",
   "scripts": {
