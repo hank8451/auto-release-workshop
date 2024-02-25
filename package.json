@@ -1,0 +1,19 @@
+{
+  "name": "auto-release-workshop",
+  "version": "0.0.0",
+  "description": "demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hank8451/auto-release-workshop.git"
+  },
+  "author": "Hank",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hank8451/auto-release-workshop/issues"
+  },
+  "homepage": "https://github.com/hank8451/auto-release-workshop#readme"
+}
