@@ -20,10 +20,6 @@ module.exports = {
                     'chore(release): ${nextRelease.version} [skip ci]',
             },
         ],
-        [
-            '@semantic-release/github',
-            {
-                githubUrl: "git@personal:hank8451/auto-release-workshop.git"
-            }],
+        '@semantic-release/github',
     ],
 };
