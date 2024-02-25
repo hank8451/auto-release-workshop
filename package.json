@@ -1,7 +1,7 @@
 {
   "name": "auto-release-workshop",
   "version": "1.0.0",
-  "description": "demo",
+  "description": "demo-123",
   "main": "index.js",
   "scripts": {
     "test": "jest",
