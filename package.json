@@ -4,7 +4,8 @@
   "description": "demo",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "prepare": "husky install"
   },
   "repository": {
     "type": "git",
@@ -15,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/hank8451/auto-release-workshop/issues"
   },
-  "homepage": "https://github.com/hank8451/auto-release-workshop#readme"
+  "homepage": "https://github.com/hank8451/auto-release-workshop#readme",
+  "devDependencies": {
+    "husky": "^8.0.0"
+  }
 }
