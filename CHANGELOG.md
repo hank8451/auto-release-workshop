@@ -1,3 +1,17 @@
+# [1.1.0](https://github.com/hank8451/auto-release-workshop/compare/v1.0.0...v1.1.0) (2024-02-25)
+
+
+### Bug Fixes
+
+* change remote github url ([3a473f7](https://github.com/hank8451/auto-release-workshop/commit/3a473f7ffc9fd964dc4cf41fe3687daffd06577b))
+* update github url ([e27f204](https://github.com/hank8451/auto-release-workshop/commit/e27f204df852340e74ad12d4e0ec6e1f9bf7a9d7))
+* update github url ([ad0fe6c](https://github.com/hank8451/auto-release-workshop/commit/ad0fe6c2c22df74ca474268adc92c2b9e1216c6f))
+
+
+### Features
+
+* update description ([aeb5bd5](https://github.com/hank8451/auto-release-workshop/commit/aeb5bd5807c82ab75b1d9479880c9186898e472e))
+
 # 1.0.0 (2024-02-25)
 
 
