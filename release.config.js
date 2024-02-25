@@ -23,7 +23,7 @@ module.exports = {
         [
             '@semantic-release/github',
             {
-                githubUrl: "https://github.com/hank8451/auto-release-workshop.git"
+                githubUrl: "git@personal:hank8451/auto-release-workshop.git"
             }],
     ],
 };
